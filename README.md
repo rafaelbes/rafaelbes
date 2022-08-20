@@ -6,6 +6,7 @@
 
 ### About me
 
-👨‍🏫 I'm computer science professor at [DIMAp](https://dimap.ufrn.br/), [UFRN](https//www.ufrn.br/);
+- 👨‍🏫 I'm computer science professor at [DIMAp](https://dimap.ufrn.br/), [UFRN](https//www.ufrn.br/);
+- 🖥️ I'm interest in computer graphics / vision / arts / programming topics but not restricted to those 😄
 
-🖥️ I'm interest in computer graphics / vision / arts / programming topics but not restricted to those 😄
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbes)

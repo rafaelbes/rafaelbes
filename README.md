@@ -2,8 +2,8 @@
 
 ### Para os meus alunos de 2022.2
 
-- 📗 [DIM0141: Organização github.com/DIM0141/](https://github.com/DIM0141/)
-- 📘 [DIM0410: Organização github.com/DIM0410/](https://github.com/DIM0410/)
+- 📗 [DIM0141 (visão): Organização github.com/DIM0141/](https://github.com/DIM0141/)
+- 📘 [DIM0410 (maratona): Organização github.com/DIM0410/](https://github.com/DIM0410/)
 
 ### About me
 

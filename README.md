@@ -2,8 +2,8 @@
 
 ### Para os meus alunos de 2022.2
 
-- 📗 [DIM0141 (visão): Organização github.com/rafaeldimap/DIM0141/](https://github.com/rafaeldimap/DIM0141/)
-- 📘 [DIM0410 (maratona): Organização github.com/rafaeldimap/DIM0410/](https://github.com/rafaeldimap/DIM0410/)
+- 📗 [DIM0141 (visão): github.com/rafaeldimap/DIM0141/](https://github.com/rafaeldimap/DIM0141/)
+- 📘 [DIM0410 (maratona): github.com/rafaeldimap/DIM0410/](https://github.com/rafaeldimap/DIM0410/)
 
 ### About me
 
